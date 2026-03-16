@@ -2,7 +2,7 @@
 
 Public downloads for Open Canvas.
 
-This repository is release-only. It exists so people can download and try the app without access to the source code.
+This repository is release-only. It exists so people can download and try the app directly.
 
 ## Download
 
@@ -27,4 +27,3 @@ curl -fsSL https://raw.githubusercontent.com/Samin12/open-canvas-downloads/main/
 ## Notes
 
 - These are unsigned developer builds for testing.
-- This repo does not contain the application source.
